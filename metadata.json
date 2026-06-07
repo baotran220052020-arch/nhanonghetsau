@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Nhà nông Hết Sầu",
+  "description": "Nền tảng số kết nối nhà vườn sầu riêng với doanh nghiệp thu mua - xuất khẩu minh bạch thông tin, tối ưu mùa vụ, phát triển bền vững.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
